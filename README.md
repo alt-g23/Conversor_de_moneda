@@ -11,6 +11,7 @@ El conversor de moneda es una aplicación de consola en Java que permite al usua
 Para ejecutar este proyecto, necesitarás tener instalado:
 - Java JDK 11 o superior
 - Una clave de API de [ExchangeRate-API](https://www.exchangerate-api.com/)
+- *Tener importada la bibloteca Gson*
 
 ## Instalación
 
